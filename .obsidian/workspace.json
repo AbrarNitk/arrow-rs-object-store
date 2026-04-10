@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "a02b4fa1b67e519d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f29e7910fdb9491",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6efd65c9157f00c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "object-store-docs/arch-design.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "arch-design.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ae6fc2cbc437b20",
+    "type": "split",
+    "children": [
+      {
+        "id": "34ac17ccae6f3791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3422e5232409a98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2a8122c4e4e52774",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "43aa5ed866e56978",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1187c1029871da4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bacb9e7e5731394",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebc791d8386664fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8889dbccb3f0808d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3bf57fb313d7bcf1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e8b5b6ebc16cd42e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8443c9cfd871807a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "f6efd65c9157f00c",
+  "lastOpenFiles": [
+    "object-store-docs/arch-design.excalidraw.md",
+    "target/debug/incremental/object_store-09tec9a5jf77z/s-hgzew7ygdv-0bgegqk-e5b7ywrkhsoje1wf1b6ymv572/work-products.bin",
+    "target/debug/incremental/object_store-09tec9a5jf77z/s-hgzew7ygdv-0bgegqk-e5b7ywrkhsoje1wf1b6ymv572/query-cache.bin",
+    "target/debug/incremental/object_store-09tec9a5jf77z/s-hgzew7ygdv-0bgegqk-e5b7ywrkhsoje1wf1b6ymv572/dep-graph.bin",
+    "target/debug/incremental/object_store-09tec9a5jf77z/s-hgzew7ygdv-0bgegqk-e5b7ywrkhsoje1wf1b6ymv572",
+    "target/debug/incremental/get_range_file-016ojytwx73qv/s-hgzew82gcr-1bavh7d-eyt89u5hhic212triukfc6s21/work-products.bin",
+    "target/debug/incremental/get_range_file-016ojytwx73qv/s-hgzew82gcr-1bavh7d-eyt89u5hhic212triukfc6s21/query-cache.bin",
+    "target/debug/incremental/get_range_file-016ojytwx73qv/s-hgzew82gcr-1bavh7d-eyt89u5hhic212triukfc6s21/dep-graph.bin",
+    "target/debug/incremental/get_range_file-016ojytwx73qv/s-hgzew82gcr-1bavh7d-eyt89u5hhic212triukfc6s21",
+    "target/debug/deps/rmeta8YOjgM",
+    "target/debug/incremental/http-0wqz15n1d1s55/s-hgzew82g11-0u5xrk4-78lgx2az94daaabnn994mppil/work-products.bin",
+    "object-store-docs/obj-store/crate-api-mapping.md",
+    "object-store-docs/obj-store/00-index.md",
+    "object-store-docs/obj-store/gcs.md",
+    "object-store-docs/obj-store/azure.md",
+    "object-store-docs/obj-store/s3.md",
+    "object-store-docs/src-code-read/07-wrappers-and-runtime.md",
+    "object-store-docs/src-code-read/06-backends.md",
+    "object-store-docs/src-code-read/05-write-path-and-multipart.md",
+    "object-store-docs/src-code-read/04-read-path.md",
+    "object-store-docs/src-code-read/03-data-model.md",
+    "object-store-docs/src-code-read/02-objectstore-contract.md",
+    "object-store-docs/src-code-read/01-crate-entry-and-shape.md",
+    "object-store-docs/src-code-read/00-index.md",
+    "object-store-docs/index.md",
+    "object-store-docs/docs-ai.md",
+    "object-store-docs/index.md.md",
+    "object-store-docs/arch-design.canvas"
+  ]
+}
